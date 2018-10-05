@@ -17,6 +17,7 @@
 - [Sick Picks](#sick-picks)
 - [Vue](#vue)
 - [Typescript](#typescript)
+- [PHP](#php)
 
 ## CSS
 
@@ -180,3 +181,9 @@
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [4 Awesome Things You Can Do with the Vue.js CLI](https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli)
 - [Vuejs Cookbook](https://vuejs.org/v2/cookbook/)
+
+## PHP
+
+- [Laravel](https://laravel.com/docs/5.7)
+- [Voyager](https://laravelvoyager.com/academy/)
+- [w3schools](https://www.w3schools.com/php/)
